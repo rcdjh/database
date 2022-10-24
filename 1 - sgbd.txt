@@ -1,0 +1,119 @@
+#######################################
+# Date.: 23 10 22					  #
+# Learning.: databaseSGBD			  #
+# Uni.: UAM - Big Data				  #
+#######################################
+
+aula a seguir
+Conhecimento apontado para o sgbd
+Conteudo tera com seu tema os bancos relacionais e nao relacionais
+
+Melhores praticas
+Conhecimentos
+Conceitos
+Onde usar
+Como
+Melhores praticas
+Usos
+BigData
+Machine Learning
+Hadoop Spark
+Dentre outros assuntos
+
+________________________________________
+
+Conhecendo as caracteristicas dos sistemas de banco de dados
+	-> E importante termos uma ideia real de tipo e do formato que o banco de dados esta disponivel para voce, para cada tipo de banco sera apresentado e utilizado uma tecnologia para o seu determinado uso.
+	-> Destacamos que para continuar com esse conteudo o aluno tera que ter pelo menos o conhecimento basico quando o assunto se trata de banco de dados nao relacional e relacional
+
+Quais os tipos de sistemas de banco de dados que existe no mercado?
+		-> 
+		Dados estruturados
+		Dados n estruturados
+		
+		Banco de dados com base relacionais
+			Os mais conhecidos, Oracle
+		Banco de dados semi estruturados
+			Os mais usados, Mongo DB, para dados documentais
+		Banco de dados estruturados, foto, video, audio,
+			Sao armazenados em outro tipo de banco de dados, sistema de arquivo, ou hdfs
+	Cada empresa usara seus dados de acordo com a sua necessidade, importante que tenhamos conhecimento das tecnologias descrita nesse documento.
+	
+Todo conteudo foi retirado da internet, nao tem como ficar apenas com o conteudo que a universidade disponibiliza no portal do aluno
+
+________________________________________
+
+Como funciona a estrutura dos sistemas de banco de dados
+	-> Tem como principal caracteristica o armazenamento dos dados, organizacao, para que seja possivel a realizacao de consultas no banco de dados
+	-> Cada banco tem a sua caracteristica, os relacionais com tabelas, os nao relacionais que possui documentos em variados tipos, videos, fotos, e dentre outras.
+	-> Coloco como destaque em que o banco de dados se coloca como total responsavel, colocando a aplicacao isolada dos seus servicos e atividades.
+	-> O SGBS tem como responsabilidade administrar todo o seu conteudo, nao e colocado a responsabilidade a outras aplicacoes
+	-> uma forma bem simples de trabalhar com o seu banco de dados e a chamada, uso de banco de dados colunares, onde temos como objetivo uma melhor performace na consulta das informacoes.
+	-> A ideia e ter uma melhor entrega no servico proposto ao cliente, entendendo o que realmente o cliente precisa e o que precisamos entregar
+	
+________________________________________
+
+Qual a importancia no uso de aplicacoes com os sistemas de banco de dados?
+	-> Existem banco de dados que tem como principal responsabilidade a comunicacao entre a aplicacao e o banco de dados, divesos cenarios tem como uso os protocolos de comunicacao entre a aplicacao e o banco de dados
+		-> Os mais conhecidos sao
+			- DDL - Data Defination Language - (E como definimos de como que vamos colocar nossos itens no banco de dados)
+			- DML - Data Manipulation Language - (Definicao de como podemos manupular essas informações no banco de dados)
+			- Existe uma interface que nos permite ter maior acesso entre a aplicação e o banco de dados, facilita a manipulação do banco de dados com a iteração entre aplicação e banco 
+
+_______________________________________
+
+Quais os cuidados principais com a modelagem dos sistemas de banco de dados?
+	-> Tudo sera analisado de acordo com o que estamos trabalhando, para cada dado que temos, cada um tera a sua particularidades para manuseio.
+	-> É preciso entender como uma tabela se comunica com a outra, um dado tem que ser compreendido de acordo com a sua estrutura.
+	-> Quando estamos trabalhando com dados multidimencionais, por exemplo em uma aplicação em BI, quando ele não tem tanta alteração em tempo real quando temos maior parte da relação entre o sistema e o banco, aqui estamos falando de um dados que ao longo do seu dia a dia não tem tanta alteração ocorrendo de forma online, precisamos consultar essas informções mais agregadas, colocando ele em dois modelos e o mais usado é o de estrela, onde temos uma tabela fato central que esta arrodiada por tabelas dimencionais. (nesse evento temos uma tabela central e outras tabelas que tem como objetivos alimentar os dados de acordo com o item que é colocado na tabela central, essa modelo é colocado como tabela estrela)
+	-> Temos como outra opção e mais usada no mercado é a snowflack, tem mais semelhança com a estrela mais o diferencial dela é que é a criação entre o dimencionamento entre as dimensões - (não vamos esquecer de que estamos falando sobre o assunto de tabelas e para cada tabela temos que levar em consideração o tamenho da sua dimensão, para cada item iremos analisar o seu uso de acordo com o que sera proposto para o cliente)
+	-> Dados semiestruturados e estruturados, existem outros modelos para se trabalhar com esses dados, dependera de como vc ira trabalhar com cada informaão, sera necessario entender de onde esses dados estão vindo, analisar a sua fonte, conteudo, informações, extensões, para cada tipo de dados teremos que entender qual sera a melhor opção para se trabalhar, cada dados tem a sua particularidade de uso.
+	-> Para cada tipo de dado teremos uma parte em particular para trabalhar com ele, como por exemplo, dados que são extraidos de uma fonte rica de informação, imaginamos um conteudo com arquivos txt, jpg, png, .mp4, .pdf, e dentre outros arquivos, o tido de dado que é colocado. HDFS, Hadoop Spark, são os mais usados para se trabalhar com esse tipo de informação, estamos falando de uma grande gama de dados para ser analisado em tempo real.
+	-> A grande massa de informação, tem como principal caracteristica a analise desses dados principalmente de dados super confiaveis, para cada dado e informação teremos que entender de onde ele veio e se suas fontes são confiaveis. Quanto maior for a qualidade dos dados para ser analisado, maior sera a nossa fonte de entrega do resultado, quando o assunto se tratar de valor confiabilidade.
+	
+_______________________________________
+Tem um diretorio com o nome 3 - Base com imagens dos dados descrito acima.
+Colocado como base de conhecimento e maior parte desse conteudo foi retirado da internet, pois não tem como ficar apenas com o conteudo que a UAM disponibiliza para os alunos.
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
