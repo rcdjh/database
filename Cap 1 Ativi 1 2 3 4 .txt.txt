@@ -1,0 +1,47 @@
+#######################################
+# Date.: 24 10 22					  #
+# Learning.: databaseSGBD			  #
+# Uni.: UAM - Big Data				  #
+# Atividade 1 2 3 4 				  #
+#######################################
+
+Armazenamento de informações, Analise de Dados e Busines Intelligence
+______________________________________________
+Atualmente temos um grande gama de informação, desde a consulta de um dado na internet ou ate mesmo um pedido que fazemos em algum app de entrega.
+A maioria desses sistemas possui um outro sistema para armazenamento desses dados.
+Se olharmos para um lado mais claro, temos uma grande gama de informação que é trafegada na internet.
+A maioria dessas emporesa faz o uso de banco de dados relacionais e não relacionais, temos uma grande gama de informação para compartilhar quando o assunto se tratar de banco de dados.
+
+MYSQL utilizado em aplicaçãoes e internet - Serviços como Uber e Netflix reportam que utilizam este banco de dados.
+
+Outro sistema que é muito importante tambem e porem muito utilizado em companhias comerciais é o SQL Server, mais conhecido como a linguagem SQL, alem, de ser muito usado é aplicado em serviços de WEB desenvolvidas com o Framework .Net utilizam o SQL como Backend de dados.
+
+Outro sistema muito utilizado e que era muito reconhecido como o oracle, era foi o mais usado por um determinado tempo e temos outras aplicações que esta tomando conta no mercado, estamos falando de daods não relacionais e relacionais.
+Com o surgimento de outras plataformas que fazem o uso e manuseio de varias dados o Oracle não tem sido utilizado como ele era antes.
+
+Temos diversas aplicações que aceitam o uso de dados não relacionais como o MongoDB, o modeloo de daod sn relacioan é mais adaptavel para aplicação que utilizam dados não estruturados como textos de um post, imagens, videos, um sistema de banco de dados não relacional é muito mais coerente.
+
+______________________________________________
+O Modelo Entidade - Relacionamento
+Entidades, relacionamentos -> é colocado como um diagrama para ter mais relacionamento entre eles.
+Ter uma ideia de relação para termos uma tomada de decisão mais completa.
+O tema a seguir temos como informação e dados inicial, os conceitos basicos de relações do banco de dados.
+relação, entidade, forma de comunicação,
+Produto, Pedido, Relação, 
+
+Colocamos o conteudo descrito acima sobre os conceitos basicos dobre o banco de dados.
+Entender melhor a relação entre pedido, produto, cliente, e entre outros
+
+Colocamos cada dado em uma unica tabela, cada dado em seu lugar, como por exemplo, colocaremos os dados de uma pessoa como data de aniversario, e essa tabela fara relação com outra tabela idade, a relação entre as tabelas tem que ser entendido de acordo com cada dados que sera alocado.
+
+______________________________________________
+Elementos que compõem um sistema de banco de dados
+um banco de dados n tem apenas as tabelas, temos muita informação dentro de uma tela do sqlserver e que temos outras definições para cada exibição.
+Quando falamos em um dado de consulta de BI, temos que ter claresa do que estamos trabalhando, podemso criar os bancos de daodos, criando um view para condençar as exibições a seguirOs banco de dados armazenam as informações que posteriormente serão utilizadas
+
+Temos que conhecer e ter mais pratica na criação dos indices, é como se fosse ter uma ordem crescente para agilizar a consulta dentro do banco de daods.
+
+Noirmalmente os profissionais que fazem o uso de BI tem como pratica a facilidade de deixar sua apresentação mais dinamica para a sua apresentação ou para ate mesmo seu manuseio (não iremos entrar a fundo com o conteudo informado de BI - abordaremos somente o conhecimento basico para o tema envolvido que é o banco de dados)
+
+É por meio das chaves primarioas que os relacionamentos são contrudios poius a chave primario de uma tabela torna-se chave estrangeira em uma tabela relacionada.
+(O assunto se trata de conhecimentos basicos de banco de dados, estamos apenas abordadnso esse conteudo como base de estuds | todo e qualquer conteudo colocado nesse material tera sua fonte alterada de acordo com o conteudo estudado.)
