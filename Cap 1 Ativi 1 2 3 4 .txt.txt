@@ -45,3 +45,7 @@ Noirmalmente os profissionais que fazem o uso de BI tem como pratica a facilidad
 
 É por meio das chaves primarioas que os relacionamentos são contrudios poius a chave primario de uma tabela torna-se chave estrangeira em uma tabela relacionada.
 (O assunto se trata de conhecimentos basicos de banco de dados, estamos apenas abordadnso esse conteudo como base de estuds | todo e qualquer conteudo colocado nesse material tera sua fonte alterada de acordo com o conteudo estudado.)
+
+______________________________________________
+
+

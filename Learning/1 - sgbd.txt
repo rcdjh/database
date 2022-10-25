@@ -1,8 +1,13 @@
 #######################################
-# Date.: 23 10 22					  #
-# Learning.: databaseSGBD			  #
-# Uni.: UAM - Big Data				  #
+# Date.: 23 10 22		      #
+# Learning.: databaseSGBD             #
+# Uni.: UAM - Big Data		      #
 #######################################
+
+//maior parte deste documento esta sendo elaborado para fins de estudos | compartilhamento | elaboração de treinamento | matrial de apoio | conceitos | introdução | 
+date1231251022
+referencia a data atualizada
+
 
 aula a seguir
 Conhecimento apontado para o sgbd
