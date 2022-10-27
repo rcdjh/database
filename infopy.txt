@@ -1,0 +1,1 @@
+O projeto tera como base do conhecimento na utilizacao do python no sql, iremos abordar os conceitos 1, introducao 1, basico 1, nivel 1, conectividade 1, banco 1, aplicacao 1, server 1
