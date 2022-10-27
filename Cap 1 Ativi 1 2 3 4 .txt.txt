@@ -1,8 +1,8 @@
 #######################################
-# Date.: 24 10 22					  #
-# Learning.: databaseSGBD			  #
-# Uni.: UAM - Big Data				  #
-# Atividade 1 2 3 4 				  #
+# Date.: 24 10 22		      #
+# Learning.: databaseSGBD	      #
+# Uni.: UAM - Big Data	 	      #
+# Atividade 1 2 3 4	 	      #
 #######################################
 
 Armazenamento de informações, Analise de Dados e Busines Intelligence
@@ -10,7 +10,8 @@ ______________________________________________
 Atualmente temos um grande gama de informação, desde a consulta de um dado na internet ou ate mesmo um pedido que fazemos em algum app de entrega.
 A maioria desses sistemas possui um outro sistema para armazenamento desses dados.
 Se olharmos para um lado mais claro, temos uma grande gama de informação que é trafegada na internet.
-A maioria dessas emporesa faz o uso de banco de dados relacionais e não relacionais, temos uma grande gama de informação para compartilhar quando o assunto se tratar de banco de dados.
+A maioria dessas impresas faz o uso de banco de dados relacionais e não relacionais
+uma grande gama de informação para compartilhar quando o assunto se tratar de banco de dados
 
 MYSQL utilizado em aplicaçãoes e internet - Serviços como Uber e Netflix reportam que utilizam este banco de dados.
 
@@ -41,9 +42,9 @@ Quando falamos em um dado de consulta de BI, temos que ter claresa do que estamo
 
 Temos que conhecer e ter mais pratica na criação dos indices, é como se fosse ter uma ordem crescente para agilizar a consulta dentro do banco de daods.
 
-Noirmalmente os profissionais que fazem o uso de BI tem como pratica a facilidade de deixar sua apresentação mais dinamica para a sua apresentação ou para ate mesmo seu manuseio (não iremos entrar a fundo com o conteudo informado de BI - abordaremos somente o conhecimento basico para o tema envolvido que é o banco de dados)
+Normalmente os profissionais que fazem o uso de BI tem como pratica a facilidade de deixar sua apresentação mais dinamica para a sua apresentação ou para ate mesmo seu manuseio (não iremos entrar a fundo com o conteudo informado de BI - abordaremos somente o conhecimento basico para o tema envolvido que é o banco de dados)
 
-É por meio das chaves primarioas que os relacionamentos são contrudios poius a chave primario de uma tabela torna-se chave estrangeira em uma tabela relacionada.
+É por meio das chaves primarioas que os relacionamentos são construidos possui a chave primario de uma tabela torna-se chave estrangeira em uma tabela relacionada.
 (O assunto se trata de conhecimentos basicos de banco de dados, estamos apenas abordadnso esse conteudo como base de estuds | todo e qualquer conteudo colocado nesse material tera sua fonte alterada de acordo com o conteudo estudado.)
 
 ______________________________________________
