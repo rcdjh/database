@@ -1,0 +1,147 @@
+lass="preview-text fancy-scroll pd-paragraph-sm"><pre>Com base nas aplicações de sistemas de banco de dados que estão vigentes no
+mercado, a modelagem do SGBD se torna um fator importante para estabelecer
+o relacionamento adequado às necessidades dos sistemas das empresas. A cada
+dia, vemos situações relevantes em que ocorrem a necessidade, com base nos
+requisitos do projeto, de entender melhor o modelo relacional e não relacional
+para garantir que a modelagem esteja de acordo com os requisitos dos projetos,
+principalmente quando inclui a integração de sistemas legados e sistemas
+integrados.
+Nesse contexto, discorra sobre as aplicações e as diferenças dos modelos de
+dados relacional e não relacional, incluindo novos modelos, que servem para
+projetos em empresas de pequeno, médio e grande porte, para serem utilizados,
+ou não, do SGBD a fim de obter o conhecimento de características da
+modelagem para a tomada de decisões na aplicação em projetos de banco de
+dados.
+De &lt;https://gomining.ml/atividades/activity.php&gt;
+Banco de dados relacional
+Banco de dados não relacional
+Incluir novos modelos de SGBD para projetos em empresas de pequeno, médio
+e grande porte
+A escolha do tipo de banco de dados a ser usado nas empresas é fundamental e
+depende unicamente das necessidades da empresa, pois quando a empresa
+utiliza um banco de dados bem estruturado e adequado para suas
+necessidades, ela consegue uma sólida fonte de conhecimento para utilizar em
+sua tomada de decisões. Entretanto, cada tipo de banco de dados trabalha de
+diferentes formas, o que torna crítica a decisão correta por parte do
+profissional. Os principais banco de dados são os seguintes:
+Banco de dados relacional: os dados são armazenados em tabelas
+(entidades), composta por tuplas (registros). É mais utilizado para dados
+tabulares e de fácil inserção, onde a consistência de dados é importante.
+A linguagem utilizada é a SQL (Structured Query Language) e,
+anteriormente ao banco de dados relacional, os modelos utilizados eram
+o hierárquico e em rede.
+Oracle: o SGBD mais utilizado no mundo, pois pode ser instalado
+em múltiplas plataformas (Linux, Windows, Unix, etc.). Possui
+recursos de segurança e performance para empresas com muitos
+dados, por isso é recomendado para empresas de grande porte ou
+com negócios mais complexos.
+○
+SQL Server: criado pela Microsoft e um dos mais usados em e-
+commerce, usa sistemas integrados de criptografia e não permite
+que exista uma informação sem sua relação no banco de dados. É
+recomendado para empresas de todos os portes
+○
+MySQL: é um banco de dados de código aberto. Como é mais
+focado em sistemas online, tornou-se a opção de muitos aplicativos
+baseados na web.
+○
+PostgreSQL: assim com o MySQL, também é um banco de dados de
+código aberto, e por isso muito utilizado para grandes empresas de
+sistemas web. É um dos SGBDs mais avançados, porém não precisa
+de um hardware muito poderoso. Ele é utilizado quando se
+necessita de economia e alto desempenho, com garantia de
+estabilidade e segurança.
+○
+DB2: produzido pela IBM, e por isso otimizado para trabalhar com
+o hardware da própria IBM. Apesar de ser executável em diversas
+plataformas, assim como o Oracle, este SGBD não é muito utilizado
+pelas empresas. Um diferencial deste banco de dados é que é
+possível comprar licenças específicas para as necessidades da
+empresa, evitando o pagamento de ferramentas que não serão
+utilizadas. É recomendado para soluções corporativas.
+○
+Influx DB: é um banco de dados código aberto de dados de séries
+temporais, ou seja, armazena os dados em ordem cronológica.
+Utiliza a linguagem SQL e tem como uma vantagem a flexibilidade
+de armazenar qualquer tipo de informação e consultar agilmente
+informações registradas há muitos anos. Por isso, esse banco de
+dados é indicado para empresas que necessitam de busca por
+histórico.
+○
+-
+Banco de dados não relacional: usado quando os banco de dados
+relacionais não atendem as necessidades. É utilizado para dados mistos,
+como imagens, mapas e tabelas, e que não podem ser tabulados em
+linhas e colunas, como no modelo relacional. São também conhecidos
+como NoSQL (Not Only SQL). A seguir, alguns exemplos de SGBDs não
+relacional:
+NoSQL: banco de dados de código aberto, não exige um hardware
+poderoso, de fácil escalabilidade, econômico e de fácil
+manutenção. Por todos estes motivos, além de ser utilizado em
+empresas de pequeno e médio porte, se tornou também uma
+opção para as grandes empresas.
+○
+MongoDB: um dos banco de dados não relacional mais utilizados
+pelas organizações. Ele também é código aberto e é executável em
+algumas plataformas diferentes. Utiliza linguagem C++ e é
+orientado a documentos no formato JSON, por isso não tem a
+restrição de ter tabelas e colunas, pois todas as informações
+necessárias estão no formato de um JSON. Suporta escalonamento
+vertical e horizontal, sendo uma excelente opção para grandes
+volumes de dados (Big Data).
+○
+Redis (Remote Dictionary Server): banco de dados de código
+aberto, onde os dados são armazenados como chave-valor, se
+assemelhando à estrutura da linguagem .NET. Pelo fato de
+armazenar seus dados na memória, é muito rápido na leitura e
+escrita de dados. É bastante utilizado em aplicações que
+necessitam alto desempenho, como jogos, tecnologia de anúncios
+IoT e outros.
+○
+Dynamo DB: é uma banco de dados não relacional "As a Service"
+criado pela Amazon, onde os dados são criptografados. Neste
+banco de dados é possível armazenar e recuperar enormes
+quantidades de dados, com alto nível de tráfego e requisições. Este
+banco de dados foi criado para cargas de trabalho de missão crítica
+e é utilizado por grandes empresas.
+○
+-
+Atividade A1 - ENTREGUE
+Wednesday, August 26, 2020 21:15
+Com base nas aplicações de sistemas de banco de dados que estão vigentes no
+mercado, a modelagem do SGBD se torna um fator importante para estabelecer
+o relacionamento adequado às necessidades dos sistemas das empresas. A cada
+dia, vemos situações relevantes em que ocorrem a necessidade, com base nos
+requisitos do projeto, de entender melhor o modelo relacional e não relacional
+para garantir que a modelagem esteja de acordo com os requisitos dos projetos,
+principalmente quando inclui a integração de sistemas legados e sistemas
+integrados.
+Nesse contexto, discorra sobre as aplicações e as diferenças dos modelos de
+dados relacional e não relacional, incluindo novos modelos, que servem para
+projetos em empresas de pequeno, médio e grande porte, para serem utilizados,
+ou não, do SGBD a fim de obter o conhecimento de características da
+modelagem para a tomada de decisões na aplicação em projetos de banco de
+dados.
+De &lt;https://gomining.ml/atividades/activity.php&gt;
+Banco de dados relacional
+Banco de dados não relacional
+Incluir novos modelos de SGBD para projetos em empresas de pequeno, médio
+e grande porte
+A escolha do tipo de banco de dados a ser usado nas empresas é fundamental e
+depende unicamente das necessidades da empresa, pois quando a empresa
+utiliza um banco de dados bem estruturado e adequado para suas
+necessidades, ela consegue uma sólida fonte de conhecimento para utilizar em
+sua tomada de decisões. Entretanto, cada tipo de banco de dados trabalha de
+diferentes formas, o que torna crítica a decisão correta por parte do
+profissional. Os principais banco de dados são os seguintes:
+Banco de dados relacional: os dados são armazenados em tabelas
+(entidades), composta por tuplas (registros). É mais utilizado para dados
+tabulares e de fácil inserção, onde a consistência de dados é importante.
+A linguagem utilizada é a SQL (Structured Query Language) e,
+anteriormente ao banco de dados relacional, os modelos utilizados eram
+o hierárquico e em rede.
+Oracle: o SGBD mais utilizado no mundo, pois pode ser instalado
+em múltiplas plataformas (Linux, Windows, Unix, etc.). Possui
+recursos de segurança e performance para empresas com muitos
+dados, por isso é recomendado para empresas de grande porte ou
+com negócios mais complexos.
