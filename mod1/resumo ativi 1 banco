@@ -1,0 +1,80 @@
+Com base nas aplicações de sistemas de banco de dados que estão vigentes no mercado, a modelagem do SGBD se torna um fator importante para estabelecer o relacionamento adequado às necessidades dos sistemas das empresas. 
+
+	A modelagem dos dados é um dos itens e fatores mais importantes em uma empresa, olhar para cada necessidade, cada detalhe e entender claramente o que cada empresa necessita, é ver a sua real necessidade e atender de acordo com que cada empresa precisa.
+	Em outras palavras, deixar o SGBD organizado, estruturado.
+	
+ A cada dia, vemos situações relevantes em que ocorrem a necessidade, com base nos requisitos do projeto, de entender melhor o modelo relacional e não relacional para garantir que a modelagem esteja de acordo com os requisitos dos projetos, principalmente quando inclui a integração de sistemas legados e sistemas integrados.
+ 	
+ 	Analisar a necessidade para cada empresa é fundamental para chegarmos a um modelo claro do que vamos utilizar para cada empresa.
+ 	Analisando seus requisitos, necessidades, é organizar os dados de forma clara, entender o que realemte o cliente vai precisar é fundamental para chegarmos a um modelo que podemos apresentar para cada empresa cliente.
+ 	
+ 
+ Nesse contexto, discorra sobre as aplicações e as diferenças dos modelos de dados relacional e não relacional
+ incluindo novos modelos, que servem para projetos em empresas de pequeno, médio e grande porte, para serem utilizados, ou não, do SGBD a fim de obter o conhecimento de características da modelagem para a tomada de decisões na aplicação em projetos de banco de dados.
+ 
+ 
+______________________________________________________________________
+ 
+ Para que possamos falar sobre o assunto de banco de dados relacional e não relacional precisamos primeiro definir o que realmente é cada um deles, ambos é bem utilizado em varias empresas de pequeno, medio e grande porte.
+ Porem para cada um deles é importante entendermos como e de que forma eles trabalham e se relacionam.
+ Normalmente entender 1º o projeto tecnico do cliente, nos dara um norte para onde podemos seguir e qual sera o melhor SGBD que podemos utilizar.
+ O banco de dados relacional surgiu na decada de 70, como modelo de evolução na substituição de sistemas de armazenamento legados.
+ Para termos uma ideia, as empresas não fazia o uso de sistemas que gerenciam o banco de dados, a maioria das empresas utilizava o sistema de banco de dados como fita magnetica, disco otico e entre outros.
+ O manuseio dessas ferramentas não era compartilhado, o conhecimento desses dados não era compartilhado com a velocidade que temos hoje.
+ O modelo que vamos falar é o relacional que tem como conceito dois dados muito importante, entidade e relação.
+ Um elemento que tem como caracteristica os seus dados, em outras palavras chamamos essa entidade de tabela, que tem como definição seus atributos que normalmente é colocado em colunas e os seus registros que é colocado nas linhas da tabela.
+ Um fator muito importante que não podemos deixar de citar é a relação que existe entre as tabelas, é a determinação de como que cada linha vai se comunicar com cada coluna de outras tabelas, relação dos registros entre as tabelas.
+ Para que possamos entender mais sobre o assunto precisamos compreender claramente o projeto do cliente, no uso de uma tabela relacional a viabilização dos dados se da a identificação das chaves primarias e estrangeiras, coluncas que identificam unicamente cada registro da tabela, relação entre colunas e tabelas.
+ Como modelo teorico, podemos descrever 3 tabelas de dados, tabela cliente, tabela telefone, tabela endereço, em um sistema em que 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
