@@ -1,0 +1,173 @@
+Conhecendo as caracteristicas dos modelos de BI
+
+O que é BI e quais as suas caracteristicas?
+	Responsavel pela coleta de dados e tem como uma grande importancia trazer a grande verdade absoluta da empresa
+	Por ter todos os resultados da empresa, decisões são tomadas com base nee, e temos como uma ideia a mudança que é realizada ao longo do tempo, tem como principal objetivo elimiar retrabalhos dentro do setor, organizações que tem como funcionarios com o objetivo de criar planilhas simples, a ideia do BI é eliminar esses retrabalhos e fazer com que a empresa tenha maior ganho de tempo nos seus processos e fluxos organizacionais.
+	
+Qual a importancia do BI para as empresas, como o BI pode apoia-las na tomade de decisão?
+	Tem como maior importancia por fazer parte de uma estrategia organizacional | operacional
+	Normalmente quando uma empresa faz a busca de um profissional de BI, ela tem como objetivo obter seus numeros e resultados de uma maneira mais rapida e dinamica | trabalho em grupo | retirada de insites | passando pelos setores comercial | depois area industrial | compras | e dentre outros setores
+	
+	O interessante do BI é que ele vai criando corpo ao longo do seu desenvolvimento, assim cada area tera a sua responsabilidade de trabalhar com o modelo que deseja, assim teremos responsabilidades em cada setor | 
+	A maneira que o BI tem de apoiar os gestores nas tomadas de decisões é trazendo a informação consolidada e rapida para ele | o gestor tendo seu conteudo de maneira mais rapida, ele tem como responsabilidade tomar a decisão mais rapida, mesmo n estando em seu local de trabalho.
+	
+Como funciona a extração de dados pelo BI
+	Temos varios modelos de tecnologias que fazem essa extração, e mais mais tradicional é o ETL Extraction Transfomation Load - que tem como objetivo retirar os dados de banco de dados, internet, planilhas que a empresa tem consolidada | api | websites | e dependendo da necessidade da empresa esses dados tem que ser analisados | esses dados tem como processo ser colocados em um estado de stage, uma area em que havera um banco de dados para armazenar as informações - lembrando que estamos falando de dados que de toda e certa forma precisa ser tratado, não existe conteudo que possar ser passado com uma estimativa sem antes o dado ser tratado, cuidado, examinado o importante é ter a certeza de que aqueles dados tem real importancia, em que eles são veridicos.
+	
+	Temos outro model de extração chamados de ELT onde, s ferramentas faz a busca dos dados e disponibiliza esses dados em um dashboard, o modelo ELT não tem como estrutura o banco de dados data warehouse or BD, em outras palavras e mais conhecido como banco de dados.
+	
+	
+	ETL: método desenvolvido para suporte de banco de dados relacionais, on-premises e sistemas legados, localizados.
+	ELT: processo construído para suportar grandes volumes e diversas fontes de dados, estruturadas e não estruturadas, de forma escalável em infraestruturas de cloud
+	
+	 ETL X ELT: qual a diferença?
+
+ETL (extrair, transformar e carregar) é um processo convencional de transformação de dados que obteve sucesso no gerenciamento de pipeline de dados ao longo dos anos.
+
+Apesar disso, com o surgimento de tecnologias revolucionárias de computação em nuvem, data warehouses e o aumento dos volumes de dados, o tradicional ETL está sendo repensado, e o inovador ELT vem ganhando protagonismo nas operações modernas de dados.
+
+Mas afinal: quais as diferenças entre ETL e ELT? Por que os times modernos de dados estão optando pelo ELT?
+
+É o que você vai ler neste post.
+Informações que você precisa saber sobre ETL x ELT
+
+Primeiramente, é importante destacar que os processos de ETL e ELT, apesar de diferentes, solucionam o mesmo problema.
+
+Então, na prática, qual é essa necessidade dessa troca?
+
+Vamos por partes. O uso efetivo dos dados nos negócios requer a coleta, o processamento e a análise de bilhões de dados.
+
+Antes, esses dados precisam passar por uma limpeza e devem ser gerenciados da forma correta para que, enfim, estejam prontos para serem analisados.
+
+Ou seja, para gerar valor para os negócios, grandes volumes de dados precisam ser qualificados e enriquecidos.
+
+No entanto, o grande diferencial entre ambos os processos é justamente a maneira como essa transformação de dados é conduzida.
+
+A seguir, conheça tudo sobre ETL e ELT, e aprenda a escolher a abordagem correta para sua empresa.
+O que é ETL?
+
+ETL é um processo tradicional de transformação de dados formado por três etapas: a extração, a transformação e o carregamento de dados. Para fazer isso, algumas ferramentas e tecnologias distintas são utilizadas.
+
+De todo modo, um fluxo eficiente de ETL deve executar as seguintes funções:
+
+    extração de dados de fontes diversas;
+    transformação de dados para uso;
+    carregamento de dados em uma estrutura de data warehouse na nuvem ou on-premises.
+
+Durante a fase da extração de dados, eles são coletados de diversas fontes, como planilhas, CRMs, silos de dados, entre outras, com o suporte de ferramentas específicas e apoio técnico de engenheiros de dados.
+
+Na transformação, os dados coletados na fase anterior são convertidos e transformados em formatos acessíveis.
+
+O último passo do ETL é o carregamento, etapa que engloba a integração dos dados em um banco ou repositório centralizado, como data warehouses na nuvem  ou on premises.
+
+
+rocesso fundamental nas operações de dados, o ETL possibilitou a centralização de informações de fontes distintas em um único local, facilitando a extração de insights poderosos de negócio e a tomada de decisão em tempo real.
+
+Apesar disso, esse processo tradicional foi construído para atender a demandas de gerenciamento de dados de outras épocas e, por isso, conta com limitações nos quesitos de armazenamento de dados e disponibilidade deles.
+O que é ELT?
+
+Podemos dizer que ELT é a modernização do processo de ETL.
+
+Por quê?
+
+Ao contrário do ETL, o ELT é um processo mais ágil para o carregamento e o processamento de dados, pois inverte a ordem das etapas de transformação de dados da abordagem tradicional de ETL.
+
+Como assim?
+
+No processo de ELT, as fases seguem a seguinte ordem:
+
+    extração: coleta e extração de dados brutos de uma ou diversas fontes para posterior integração em um repositório de dados único.
+    carregamento: carregamento dos dados coletados em um data warehouse ou repositório de dados.
+    transformação: transformação dos dados brutos em dados modelados dentro  de um data warehouse para a aplicação de business intelligence, análise de dados e advanced analytics.
+
+Você pode estar se perguntando: qual é a grande diferença entre ETL E ELT?
+
+Na abordagem de ELT, ao contrário da abordagem de ETL, a transformação de dados ocorre logo após a coleta e o carregamento das informações em um repositório de dados centralizado, e não antes.
+
+Com isso, é possível transformar dados brutos em dados modelados dentro de um data warehouse.
+
+E essa "simples" inversão de etapas no processo de ELT reduz consideravelmente o tempo de carregamento de dados, permitindo que a transformação de dados seja feita por analytics engineers ou analistas de dados, sem a dependência de profissionais altamente técnicos como desenvolvedores e engenheiros de dados.
+
+Na prática da implementação do ELT, portanto, os engenheiros de dados focam apenas nas  etapas de extração e carregamento, atribuições características de sua área de atuação.
+
+Assim, a responsabilidade da transformação de dados fica nas mãos de profissionais próximos à empresa que conhecem as regras de negócio, como analistas, cientistas de dados e analytics engineers, trazendo os seguintes benefícios:
+
+    menos tempo gasto entre a extração e a transformação de dados
+    mais eficiência na implementação de projetos
+    menos dependência de profissionais altamente técnicos
+    independência dos analistas para o manuseio de dados brutos
+
+Por esses motivos, e outros que falaremos a seguir, a abordagem de ELT tem ganhado cada vez mais espaço nos times modernos de dados. Saiba mais abaixo!
+ETL X ELT: características e diferenças
+
+Para facilitar o seu entendimento, elencamos 8 critérios que resumem as principais diferenças e particularidades dos processos de ETL e ELT.
+
+    Tempo de carregamento
+
+    ETL: uso de sistemas distintos que implica demora para o carregamento de dados
+    ELT:  sistema de carregamento integrado, com isso, o carregamento de dados é feito uma única vez.
+
+2. Tempo de transformação
+
+    ETL: demora considerável, particularmente, na transformação de grandes volumes de dados. Além disso, à medida que os volumes crescem, o tempo de transformação aumenta nesse processo.
+    ELT: transformação de dados feita de maneira integrada, pois sua velocidade independe do tamanho ou da complexidade dos dados, graças às tecnologias de infraestrutura na nuvem.
+
+3. Tempo de manutenção
+
+    ETL: altas taxas de manutenção, pois a atualização dos repositório de dados requer o trabalho recorrente de profissionais caros e escassos no mercado, como engenheiros de dados e desenvolvedores.
+    ELT: baixos custos de manutenção, pois os dados estão sempre disponíveis e acessíveis para todos.
+
+4. Complexidade de implementação
+
+    ETL: em etapas iniciais, demanda menos espaço de armazenamento.
+    ELT: requer conhecimento profundo de ferramentas avançadas de modern analytics e uma arquitetura bem estruturada do repositório de dados.
+
+5. Limitação de dados
+
+    ETL: dados devem ser selecionados a priori, ou seja, o que não for selecionado é perdido.
+    ELT: dados brutos disponíveis no DW, por isso a retenção de dados depende apenas da política de retenção eleita pela operação de dados e não do processo de  ELT em si.
+
+6. Suporte para data warehouses
+
+    ETL: método desenvolvido para suporte de banco de dados relacionais, on-premises e sistemas legados, localizados.
+    ELT: processo construído para suportar grandes volumes e diversas fontes de dados, estruturadas e não estruturadas, de forma escalável em infraestruturas de cloud.
+
+7. Usabilidade
+
+    ETL: tabelas fixas, cronogramas fixos, predominantemente utilizados por profissionais técnicos de TI, desenvolvedores e engenheiros de dados.
+    ELT: ad hoc, abordagem escalável, flexível e colaborativa, utilizável tanto por profissionais técnicos quanto pelo usuário final de negócio.
+
+8. Custo/benefício
+
+    ETL: abordagem não econômica, especialmente para empresas de pequeno e médio portes.
+    ELT: processo escalável, adaptável e acessível para negócios de todos os tamanhos, pois utiliza soluções diversas de SaaS online personalizáveis.
+
+ETL vs ELT: escolhendo a abordagem certa
+
+Quando a abordagem de ETL foi criada, o armazenamento de dados em repositórios era muito caro. Além disso, o processamento dessas informações era extremamente lento e, por isso, pouquíssimas organizações podiam investir nessas tecnologias.
+
+Ocorre que essa realidade mudou com a computação na nuvem. Hoje, o que era lento tornou-se rápido, e o que era caro tornou-se acessível.
+
+Dessa forma, considerando o volume massivo de dados para processamento nas operações modernas, muitas empresas têm optado pelo ELT ao invés do tradicional ETL (extract-transform-load), buscando mais flexibilidade e agilidade nos seus pipelines de dados.
+
+Por que isso ocorre?
+
+Ao usar o ELT, é possível analisar grandes volumes de dados de forma rápida, com menos manutenção e gastos de recursos.
+
+Além disso, com a inversão das etapas no processo, os engenheiros de dados ficam focados na parte da extração e do carregamento de dados, enquanto os analistas e engenheiros de analytics podem contribuir na transformação de dados, trazendo a perspectiva de profissionais que estão próximos ao negócio e sabem quais indicadores e métricas fazem a diferença no business.
+
+Como resultado,  a abordagem ELT possibilita mais colaboração entre times de negócios e profissionais técnicos, possibilitando operações de dados mais eficientes.
+
+Por isso, ainda que a implementação de um processo ELT seja mais complexa, exigindo mais esforços nos quesitos de design e infraestrutura do que o ETL, a primeira oferece mais vantagens no longo prazo.
+
+Além disso, o ELT leva menos tempo no carregamento e na transformação de dados e, por isso, é mais econômico.
+
+No entanto, caso o repositório de dados de destino não seja robusto para comportar um volume massivo de dados, o processo de ETL pode ser uma opção mais viável.
+	
+
+Mas afinal, qual é a melhor opção?
+
+Atualmente, operações modernas de analytics precisam processar volumes, variedades e velocidades imensas de dados de forma rápida e ágil, e isso ocorre de forma mais lenta com o framework de ETL.
+
+Por isso, o processo de ELT é visto como a nova sensação do mundo de dados, pois trata-se de uma abordagem escalável, moderna e flexível, que permite aos times de dados e às empresas modernas posicionarem-se de maneira competitiva na era dos dados.
+	

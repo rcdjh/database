@@ -1,4 +1,11 @@
 iniciando projeto
-estruturação 
+	Ao longo dos esudos iremos trabalhar com a ideia do uso da lingugem Python para melhorias e automatização dos processos.
+
+estruturação
+	Estruturado de forma independente, sem uso dos conteudos entregue pela UAM, conteudo extra tirado da internet e realizado um breve resumo com base dos estudos que a universidade esta oferecendo
+	
 organização
+	Organizar estruturalmente o conteudo colocado no diretorio com o objetivo de entregar conteudo para outras pessoas que por algum momento ira precisar desse material de apoio.
+	
 esqueleto
+	organização | pastas dos modelos | itens retirados da internet, imagens jpg, txt, dentre outros itens.
