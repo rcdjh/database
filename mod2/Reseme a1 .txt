@@ -1,0 +1,28 @@
+Nesse contexto, são aplicados sistemas de inteligência artificial. Todavia, sistemas de BI podem auxiliar em análise de fraudes, comportamento de clientes, bem como na geração de relatórios ou na mineração de dados para a identificação de informações relevantes
+
+Temos como fundamentos o olhar diferenciado para os dados de BI
+não podemos apenas olhar para as unicos dados disponivel no mercado, a ideia é olharmos não somente esses dados, e sim olhar para os dados que esta disponivel na internet
+Normalmente os dados em fulltime é fundamental para a elaboração de um relatorio para a devida tomada de decisão
+Definir como a empresa esta, e ter uma ideia da estimativa do resultado do seu produto é fundamental para a tomada de desção
+Antes de tudo temos que observar os dados que estamos tratando e não podemos esquecer de que cada dado tem a sua particularidade, tratar os dados é fundamental e ainda temos que colocar a necessdade da junção dos dados tratados com outros dados que esta disponivel em sua base, assim teremos um bom resultado do assunto que estamos tratando
+
+Tambem é necessario que a alta gestão identifique os propositos da utilização do sistema de BI e em ue direção o empreendimento deve rumar, assim devem ser definidos KPIs coerentes com esta direção
+
+quantidade de vendas no ultimo trimestre | satisfação em determinação de tempo | quem vai definir os kpi é a alta gestão da empresa
+
+KPI é uma sigla derivada de uma expressão do idioma inglês: Key Performance Indicator (Indicador-Chave de Performance).
+É utilizado para avaliar se determinadas iniciativas, atitudes ou ações estão atendendo ou superando as expectativas do público quanto à promessa trabalhada na campanha.
+
+
+Existem algumas características importantes que devem ser consideradas nos KPI's, como:
+-É necessário objetividade;
+-Precisa ser mensurável;
+-Precisa ser verificável;
+-Deve contar com um valor agregado;
+-É necessário existir a comunicação;
+-Deve existir consenso no objetivo definido;
+-Comprometimento dos envolvidos é palavra de ordem.
+
+Os KPIs indicam os valores quantitativos fundamentais que medem os seus principais processos internos da empresa, possibilitando o acompanhamento e o melhor gerenciamento do nível de desempenho e sucesso das estratégias
+
+
