@@ -1,0 +1,62 @@
+░░░░░░░░░░░░▄▀▀▀▄░░░░░░
+ ░░░░░░░▄███▀░◐░░░▌░░░░░
+ ░░░░░░░░░░░▌░░░░░▐░░░░░
+ ░░░░░░░░░░░▌░░░░▐░░░░░░
+ ░░░░░░░░░░░█▀▀░░█░░░░░░
+ ░░░░░░▄▀▀▀▀░░░░░█▄▄░░░░
+ ░░░░░░█░█░░░░░░░░░░▐░░░
+ ░░░░░░▐▐░░░░░░░░░▄░▐░░░
+ ░░░░░░█░░░░░░░░▄▀▀░▐░░░
+ ░░░░▄▀░░░░░░░░▐░▄▄▀░░░░
+ ░░▄▀░░░▐░░░░░█▄▀░▐░░░░░
+ ░░█░░░▐░░░░░░░░▄░█░░░░░
+ ░░░█▄░░▀▄░░░░▄▀▐░█░░░░░
+ ░░░█▐▀▀▀Ỏ͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰▀▀▀▀░░▐░█░░░░░
+ ░░▐█▐▄░░░░░░░░░▐░█▄▄░
+
+
+
+
+O conteudo a seguir foi retirado de todo material que esta disponivel no portal do aluno
+Iremos abordar o 3º modulo para disponivel pela uam
+todas as informações a seguir é do material videos e ebook
+fontes e redefencias seram destacadas ao longo do material
+
+19|11|22
+ _______________
+/''T''|[___|___]
+[---T--L -OlllllllO-]
+()_)"""()_)/"**"\)_)
+ 
+ Qual a relação do BI e dos sistemas de Banco de Dados?
+ 	Relação com o BD, é de auto dependencia - O BI depende completamente do banco de dados para que os dados sejam extraidos para o BI o trabalho tem que ser em paralelo com o Banco de Dados
+	Em alguns momentos os dados que vem para o BI não estão todos limpos e em varios momentos ele vem em modelos DWH Data Ware House
+	Modelos de dados bruto, ao grosso modo falando daods que ainda não foram tratados, seja la eles relacional ou não relacional
+
+Existe algum risco ao egocio com a extração de dados com o BI?
+	Não existe risco ao negocio, quando falamos no trabalho da extração dos dados, é para que possamos levar a real informação para a empresa e assim entregar informações ricas de acordo com o desejo e plano de busca que o cliente deseja receber.
+	Não existe risco algum, pelo contrario, a ideia é fazer com que os dados se tornem uteis para a empresa | cliente | funcinario
+	Porem é preciso de uma certa atenção, pois precisamos de qualidade no processo da extração, garantindo assim a sua confiabilidade e que não haja corrompimento dos dados, evitar um problema no futuro é o objetivo.
+	
+Quais são as vantagens do relacionamento do BI com as bases de dados?
+	Existem varias vantagens, o BI precisa dessa base de dados, de um banco de dados para poder ter as informações que o analista vai colocar, quando o assunto se trata de vantagens o BI tem uma capacidade muito ampla de processamento, analise de dados com aplicações de cubo olap, que são atividades mais avançadas pode oferecer.
+	Ponto de atenção, a arquitetura que e construida para trabalhar e analisar cada item e serviço separado, relação entre o BI e um sgbd em full time é meio arriscado, é possivel que algum dados possa se perder ou se corromper ao longo dessa atividade 
+	Data Ware House é o mais indicado para trabalhar com os dados onde é criado o processo de extração de dados ETL | periodos | que não tenha interação com a outra base de dados | na experiencia estamos falando de horarios certos para que haja um backup adequado para que aquela aplcação não perca nenhum dado
+	
+Em qual momento as empresas visualizam a necessidade do uso da aplicação do BI para a tomada de decisão?
+	As empresas ve a necessidade do uso quando elas encontra dificudade de or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

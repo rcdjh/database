@@ -1,0 +1,52 @@
+░░░░░░░░░░░░▄▀▀▀▄░░░░░░
+ ░░░░░░░▄███▀░◐░░░▌░░░░░
+ ░░░░░░░░░░░▌░░░░░▐░░░░░
+ ░░░░░░░░░░░▌░░░░▐░░░░░░
+ ░░░░░░░░░░░█▀▀░░█░░░░░░
+ ░░░░░░▄▀▀▀▀░░░░░█▄▄░░░░
+ ░░░░░░█░█░░░░░░░░░░▐░░░
+ ░░░░░░▐▐░░░░░░░░░▄░▐░░░
+ ░░░░░░█░░░░░░░░▄▀▀░▐░░░
+ ░░░░▄▀░░░░░░░░▐░▄▄▀░░░░
+ ░░▄▀░░░▐░░░░░█▄▀░▐░░░░░
+ ░░█░░░▐░░░░░░░░▄░█░░░░░
+ ░░░█▄░░▀▄░░░░▄▀▐░█░░░░░
+ ░░░█▐▀▀▀Ỏ͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰▀▀▀▀░░▐░█░░░░░
+ ░░▐█▐▄░░░░░░░░░▐░█▄▄░
+
+
+
+
+O conteudo a seguir foi retirado de todo material que esta disponivel no portal do aluno
+Iremos abordar o 3º modulo para disponivel pela uam
+todas as informações a seguir é do material videos e ebook
+fontes e redefencias seram destacadas ao longo do material
+
+19|11|22
+ _______________
+/''T''|[___|___]
+[---T--L -OlllllllO-]
+()_)"""()_)/"**"\)_)
+ 
+ Com base nas necessidades das empresas no atual cenário para a modelagem, implementação do BI e banco de dados, as etapas do projeto são fundamentais para garantir a modelagem e a tomada de decisão dos negócios. Desse modo, torna-se relevante conhecer todas as etapas para o desenvolvimento da implementação:
+
+    Definição do uso da ferramenta do BI: consiste na análise, conforme o modelo de negócio da melhor ferramenta que possa levar em consideração, como, por exemplo: tipo de empresa, processos e necessidades empresariais.
+    Entendendo os KPIs (key performance indicators): consiste na identificação dos indicadores de desempenho da empresa, conforme regra ou métrica definida pelo alto escalão da empresa ou gestores.
+    Organização dos dados do projeto BI: nesta etapa, será necessário ter a modelagem do banco de dados consistente para gerar facilidade na busca por dados e, principalmente, entender os atributos que serão utilizados para o relacionamento entre as entidades do SGBD.
+    Cultura e envolvimento da equipe no Projeto BI: essa etapa é considerada muito importante para o sucesso do projeto BI, porque os níveis operacional, tático e estratégico devem utilizar a mesma cultura da empresa e compreender as necessidades do projeto BI.
+    Definição de metas e monitoramento do projeto BI: consiste na definição de objetivos do projeto BI, identificando quem serão os usuários que terão acesso às informações geradas pelo BI, bem como monitorar o funcionamento dos indicadores para entender se o que foi programado está trazendo o resultado esperado pelo alto escalão e gestores da empresa.
+
+Com base nas informações acima e no conhecimento adquirido ao longo da unidade, aponte quais seriam os pontos de maior atenção para a implementação de um projeto de BI e banco de dados em uma empresa. Justifique sua resposta.
+
+
+
+
+
+
+
+
+
+
+
+
+
