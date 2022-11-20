@@ -1,0 +1,55 @@
+ _______________
+/''T''|[___|___]
+[---T--L -OlllllllO-]
+()_)"""()_)/"**"\)_)
+ 
+ 
+ 
+ 
+ Com base nas necessidades das empresas no atual cenário para a modelagem
+	Necessidade real da empresa | entrega total dos dados para uma melhor mineiração e informações da empresa | cudado direto como sera a forma do tratamento dos dados da empresa | dados real | veracidade | confiabilidade | gerenciamento dos dados da empresa e conformidade com o conhecimeno que o responsavel ira atuar | SGBD | Dados | Program | Python |
+	Emrepsas diversos seguimentos | midias sociais | dados retirados da internet | pesquisas realizadas em full time em sites que possui grande acesso | dados que é retirado da internet | sites | mainframe | post | datawerehouse | 
+	Atual cenário para a modelagem | entender melhor os dados da empresa | analisa dos dados | veracidade dos dados | tratamento dos dados | organização | planejamento | real necessidade | por que fazer o uso dos dados para a extração ao bi | modelagem | estruturação | segmentação dos dados | manuseio dos dados | 
+
+implementação do BI e banco de dados
+	Estruturação do banco de dados | modelagem das informação | organização | banco de dados relacionais | banco de dados não relacionais | se faz necessario o uso do bi na empresa | estruturação dos dados empresariais | exportar os dados para uma base de tratamento | manuseio correto das informações | 
+
+
+
+ as etapas do projeto são fundamentais para garantir a modelagem
+ 	especificação tecnica | funcional | observabilidade nos projetos vivos na empresa | criação de processo | atualização e organização dos inventarios e processos de cada setor | modelagem dos dados dos processos diarios | elaboração de procedimento | treinamento | criação de conteudo | iniciativa | 
+ 
+ e a tomada de decisão dos negócios
+ 	Fornecer dos dados para analise | separar os dados | mineração dos dados | objetivo da empresa | visão da empresa | é realmente necessario o uso dessa tecnologia | excel | bi | planilhas | saber de onde os dados veio | qual forma e qual uso do banco de dados | no
+ 	
+ 	
+ 	
+ Desse modo, torna-se relevante conhecer todas as etapas para o desenvolvimento da implementação:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	
