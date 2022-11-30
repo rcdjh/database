@@ -1,0 +1,38 @@
+Os dados aqui foram retirados da internet
+todo conteudo abordado tem relação com as informações da uam
+somente o conteudo da uam, não tem como continuar com a didatica
+╔════•ೋೋ•════╗ 
+      29/11/22
+╚════•ೋೋ•════╝
+____________________________________________________________________
+
+
+1º conteudo
+Aplicações de tecnologia com abordagens transacionais e analiticas de dados
+	O que são informações gerenciais?
+	Como é feit a abordagem transacional e analiticas de dados?
+		(Informações gerenciais abordada dentro de uma linha do tempo, normalmente é uma agregação do que esta acontecendo com o dado | é o mais conhecido como dados gerenciais, em outras palavras, é parar de ter o axismo e passar a tomar as decisoes com mais certeza, transformações de dados transacionais | falamos dos dados que esta em uma base de informação, tanto em uma extração etl dentro outros)
+		Para o alto escalão da empresa é ter mais certeza do que vamos trabalhar.
+		Repositorio com imagens que pode ajudar na compreensão em destaque do assunto
+
+____________________________________________________________________
+
+2º conteudo
+Tendo o projeto a necessidade de acesso em varias base de dados, qual o principal desafio de um projeto?
+	Quando temos uma ideia do que vamos trabalhar com a utilização do BI, antes de tudo temos que ter transformados os dados transacionais para dados analiticios e seguindo o processo de colocar os dados em uma linha do tempo, de acordo com o processo que a empresa esta estimando encontrar o seu devido resultado.
+	Os dados transacionais esta em varias bases diferente, com um projeto de BI, podemos mesclar as informações entre as demais informações, a ideia é unir todas as base, deixando elas mais claras, com informações que não foge da linha do tempo em que estamos trabalhando, se temos uma dado em uma base de dado e ela tem relação com outra base de dados, o ETL tem como finalidade preservar esse conteudo para que nada se perca ao longo do tratamento desses dados.
+	É um desafio que normalmente acontece diariamente na vida de um profissional de BI, juntar as informações em varias bases de dados é um cenario que é normal no dia a dia dos profissionais de BI
+
+____________________________________________________________________
+modelagem para tomada de decisão
+4º unid
+	cap1 - o processamento transacional e o processamento analistico
+		Os relacioanmento se torna muito importante, sera necessario compreender afundo o que estamos trabalhando de relações entre as tabelas
+		Compreender claramente do que se trata o processo da transação
+		Como registrar
+		Como analisar o processamento
+		O conteudo se envolve para que esta proximo dos processos relacioandos a adm sgbd
+		É importante e não destacar que todo conteudo que é retirado das bases tem que ser tratado, analisa, e filtrado | retirar o que não importa é fundamental
+	
+		
+		
